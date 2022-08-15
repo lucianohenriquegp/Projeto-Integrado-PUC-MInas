@@ -1,21 +1,27 @@
-# PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
-PUC Minas Virtual
-Pós-graduação Lato Sensu em Engenharia de Software
+<div align="center">
 
+### **PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS**
 
+### **PUC Minas Virtual**
 
+### **Pós-graduação _Lato Sensu_ em _Engenharia de Software_**
 
+<br/><br/><br/>
 
-Projeto Integrado
-Relatório Técnico
-hiDesk
+### Projeto Integrado
 
+### Relatório Técnico
 
+### hiDesk
 
-Luciano Henrique da Silva
+<br/><br/><br/>
 
+### **Luciano HEnrique da Silva**
 
+<br/><br/><br/>
 
+### Rio de Janeiro
 
-Rio de Janeiro 
-Agosto/2022.
+Agosto/2022
+
+</div>
