@@ -16,7 +16,7 @@
 
 <br/><br/><br/>
 
-### **Luciano HEnrique da Silva**
+### **Luciano Henrique da Silva**
 
 <br/><br/><br/>
 
